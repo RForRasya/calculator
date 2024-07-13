@@ -1,1 +1,2 @@
-# calculator
+# Exercise2
+Kalkulator
